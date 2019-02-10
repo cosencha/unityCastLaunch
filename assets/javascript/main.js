@@ -2,7 +2,7 @@ $(function() {
 	//establish variables
 	var $displayTable = $("#displayTable");
 	var $displayTable2 = $("#displayTable2");
-	var loginNames = ["AntonioAsh", "BraindeadSurki", "Chachava",  "Crittle888", "Fibrowolf", "HrvstrOfEnergy", "NeenSheep",  "princess___lissy", "TheOptionalOath", "TheQuietestGirl"]
+	var loginNames = ["AntonioAsh","BraindeadSurki","Chachava","Crittle888","Fibrowolf","HrvstrOfEnergy","NeenSheep","princess___lissy","TheOptionalOath","TheQuietestGirl"];
 	var urlString = "";
 	var urlString2 = "";
 	var statusString = "";
