@@ -1,5 +1,5 @@
 /****************** VIEWPORTS ******************/
-@media screen and (min-width: 1000px)
+/* @media screen and (min-width: 1000px)
 [class*="img-"] {
     width: 33%;
     float: left;
@@ -11,3 +11,7 @@
     float: left;
     padding: 5px 5px;
 }
+@media screen and (max-width: 650px)
+/* .rwdTable td {
+    display: block;
+} */ */
