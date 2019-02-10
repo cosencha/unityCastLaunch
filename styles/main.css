@@ -1,0 +1,13 @@
+/****************** VIEWPORTS ******************/
+@media screen and (min-width: 1000px)
+[class*="img-"] {
+    width: 33%;
+    float: left;
+    padding: 5px 5px;
+}
+@media screen and (min-width: 768px)
+[class*="img-"] {
+    width: 50%;
+    float: left;
+    padding: 5px 5px;
+}
